@@ -1,1 +1,12 @@
-/* Your CSS code here. */
+*{
+margin:0px;
+padding:0px;
+}
+h2{
+text-align:center;
+	font-size:30px;
+	font-family:candara;
+	text-shadow:1px 0px 19px hotpink;
+	font-weight:800;
+	
+}
